@@ -22,3 +22,13 @@ $ vagrant up --provider virtualbox
 * User = root
 * Pass =
 
+
+### Host
+* Agregar a host
+192.168.1.241 reddit.dev
+
+### Crear proyecto de laravel 
+```
+$ composer create-project --prefer-dist laravel/laravel reddit-devcode
+
+```
