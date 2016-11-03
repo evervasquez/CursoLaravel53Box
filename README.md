@@ -7,7 +7,7 @@ Ubuntu 14.04.5
 * Php7
 * nginx
 * php7-fpm
-* mysql
+* mysql  Ver 14.14 Distrib 5.5.52
 
 ### Add Box
 ```
