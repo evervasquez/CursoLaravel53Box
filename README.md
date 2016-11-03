@@ -23,9 +23,10 @@ $ vagrant up --provider virtualbox
 * Pass =
 
 
-### Host
-* Agregar a host
+### Agregar a hosts
+```
 192.168.1.241 reddit.dev
+```
 
 ### Crear proyecto de laravel 
 ```
