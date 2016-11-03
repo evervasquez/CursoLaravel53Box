@@ -1,2 +1,3 @@
-# CursoLaravel53Box
-Configuración del Vagrantfile
+# Configuración del entorno de trabajo
+
+### Base de datos
