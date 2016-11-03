@@ -11,6 +11,7 @@ Ubuntu 14.04.5
 
 ### Add Box
 ```
+$ vagrant box add sonico999/devcode
 $ vagrant init sonico999/devcode
 $ vagrant up --provider virtualbox
 ```
