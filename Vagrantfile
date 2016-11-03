@@ -2,7 +2,7 @@
 # vi: set ft=ruby :
 
 Vagrant.configure("2") do |config|
-  config.vm.box = "laravel53"
+  config.vm.box = "sonico999/devcode"
 
   config.ssh.username = 'vagrant'
   config.ssh.password = 'vagrant'
