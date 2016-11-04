@@ -33,3 +33,6 @@ $ vagrant up --provider virtualbox
 $ composer create-project --prefer-dist laravel/laravel reddit-devcode
 
 ```
+
+### IP
+192.168.1.241
