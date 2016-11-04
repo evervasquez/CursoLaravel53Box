@@ -11,7 +11,7 @@ Vagrant.configure("2") do |config|
   config.vm.network "forwarded_port", guest: 3306, host: 33060
   config.vm.network :forwarded_port, guest: 80, host: 8000, auto_correct: true
   
-  # configurate
+  # configurar carpeta a compartir ("/Users/eveR/WebProjects")
   config.vm.synced_folder "/Users/eveR/WebProjects", "/home/vagrant/Code", create: true, group: "vagrant", owner: "vagrant"
 
   config.vm.provider "virtualbox" do |vb|
