@@ -3,6 +3,12 @@
 ### Sistema operativo
 Ubuntu 14.04.5
 
+### Instalar software faltante
+```
+$ sudo apt-get install unzip
+$ sudo apt-get install git
+```
+
 ### Software instalado
 * PHP 7.0.12-1
 * nginx version: nginx/1.4.6
