@@ -12,7 +12,7 @@ Ubuntu 14.04.5
 ### Add Box
 ```
 $ vagrant box add sonico999/devcode
-$ vagrant init sonico999/devcode
+$ git clone git@github.com:evervasquez/CursoLaravel53Box.git FundamentosLaravel53
 $ vagrant up --provider virtualbox
 ```
 
