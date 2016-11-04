@@ -3,17 +3,17 @@
 ### Sistema operativo
 Ubuntu 14.04.5
 
-### Instalar software faltante
-```
-$ sudo apt-get install unzip
-$ sudo apt-get install git
-```
-
 ### Software instalado
 * PHP 7.0.12-1
 * nginx version: nginx/1.4.6
 * php-fpm7.0
 * mysql  Ver 14.14 Distrib 5.5.52
+
+### Instalar software faltante
+```
+$ sudo apt-get install unzip
+$ sudo apt-get install git
+```
 
 ### Add Box
 ```
